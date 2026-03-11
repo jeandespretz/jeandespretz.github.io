@@ -1,6 +1,7 @@
 ---
 permalink: /illustrations/
 title: "Illustrations"
+
 gallery:
   - url: /assets/images/@Panda_obviously_FA2.png
     image_path: /assets/images/@Panda_obviously_FA2.png
