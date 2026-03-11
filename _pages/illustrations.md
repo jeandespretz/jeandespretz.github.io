@@ -33,7 +33,7 @@ gallery:
     alt: "ours KH"
     title: "ours KH"
     
-   - url: /assets/images/IMG_0131.jpeg
+  - url: /assets/images/IMG_0131.jpeg
     image_path: /assets/images/IMG_0131.jpeg
     alt: "inktober 1"
     title: "inktober 1"
