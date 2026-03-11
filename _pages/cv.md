@@ -1,6 +1,10 @@
 ---
 permalink: /cv/
 title: "CV"
+footer:
+  action:
+    -label: "Télécharger au format PDF"
+    url: "/files/cv.pdf"
 ---
 
 Professionnel issu d’un parcours hybride mêlant audiovisuel, mediation environnementale et
@@ -15,70 +19,70 @@ de publics et gestion de projets.
 #### 2024 - Monteur audiovisuel - CCP2 obtenu (6 mois)
 Gaming Campus Lyon
 
-<ol>
+<ul>
   <li>Montage de contenus narratifs (formats courts, contenus digitaux, publicité, portrait)</li>
   <li>Création et animation d’éléments graphiques</li>
   <li>Gestion du rythme, habillage visuel et mixage sonore</li>
   <li>Production de contenus adaptés aux réseaux sociaux</li>
   <li>Médiation, animation et mobilisation</li>
-</ol>
+</ul>
 
 #### 2012 - Chargé de médiation et animation - Stage (1 mois)
 La maison des jardins Tourcoing
 
-<ol>
+<ul>
   <li>Conception de supports pédagogiques à destination des écoles et du grand public</li>
   <li>Animation d’ateliers nature</li>
   <li>Participation à l'organisation d’actions de sensibilisation environnementale</li>
-</ol>
+</ul>
 
 #### 2012 - Chargé de communication et mobilisation - Stage (5 mois)
 Pocheco Canopée Reforestation Forest-sur-Marque
 
-<ol>
+<ul>
   <li>Rédaction de contenus web et pages de sites internet</li>
   <li>Organisation de réunions de présentation et événements associatifs</li>
   <li>Appels aux dons et mobilisation d’acteurs locaux</li>
   <li>Suivi de projets environnementaux et coordination d’intervenants</li>
-</ol>
+</ul>
 
 #### 2011 à 2012 - Coordinateur adjoint d’équipe (6 mois)
 SMRB Bapaume
 
-<ol>
+<ul>
   <li>Encadrement en binôme d’une équipe de 6 volontaires en service civique</li>
   <li>Organisation d’actions de sensibilisation (porte-à-porte, animations en mairie et en grande surface)</li>
   <li>Animation d’ateliers pédagogiques sur la réduction des déchets</li>
   <li>Coordination logistiques d’interventions publiques</li>
   <li>Gestion de projet et environnement technique</li>
-</ol>
+</ul>
 
 #### 2021 à 2022 - Administrateur réseaux - Alternance
 Adeo Services Villeneuve d’ascq
 
-<ol>
+<ul>
   <li>Migration d’infrastructures vers le cloud (GCP)</li>
   <li>Rédaction de procédures et documentation technique</li>
   <li>Suivi de projets via Jira</li>
   <li>Coordination avec équipes techniques</li>
-</ol>
+</ul>
 
 #### 2019 à 2021 - Technicien systèmes et réseaux / support informatique
 
-<ol>
+<ul>
   <li>Assistance utilisateurs</li>
   <li>Maintenance et gestion d’infrastructures</li>
   <li>Artisanat et création</li>
-</ol>
+</ul>
 
 #### 2014 à 2017 - Pâtissier
 
-<ol>
+<ul>
   <li>Réalisation de créations artisanales</li>
   <li>Organisation du travail en laboratoire</li>
   <li>Gestion de la production et respect des délais</li>
   <li>Sens du détail et exigence esthétique</li>
-</ol>
+</ul>
 
 ### AUTRES EXPÉRIENCES
 
@@ -91,29 +95,29 @@ Adeo Services Villeneuve d’ascq
 
 #### Communication et médiation
 
-<ol>
+<ul>
   <li>Conception de supports pédagogiques</li>
   <li>Rédaction web et contenus éditoriaux</li>
   <li>Animation d’événements publics</li>
   <li>Mobilisation de partenaires</li>
-</ol>
+</ul>
 
 #### Création visuelle et audiovisuelle
 
-<ol>
+<ul>
   <li>Montage vidéo (DaVinci, Première)</li>
   <li>Création graphique (Affinity, Adobe, Procreate)</li>
   <li>Construction d’identité visuelle</li>
-</ol>
+</ul>
 
 #### Organisation et coordination
 
-<ol>
+<ul>
   <li>Encadrement d’équipe</li>
   <li>Suivi de projets</li>
   <li>Rédaction de procédures</li>
   <li>Planification d’actions</li>
-</ol>
+</ul>
 
 ### FORMATIONS
 
@@ -149,5 +153,3 @@ Italien Niveau A2 - Lu, écrit
 
 Cuisine, Dessin digital,
 Jeux vidéos (Coopération, RPG, Stratégie)
-
-Mis à jour le 11 mars 2026
