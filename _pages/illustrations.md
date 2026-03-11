@@ -13,8 +13,8 @@ gallery:
     alt: "chèvre"
     title: "Chèvre"
     
-  - url: /assets/images/@Yanis.png
-    image_path: /assets/images/
+  - url: /assets/images/@yanis.png
+    image_path: /assets/images/@yanis.png
     alt: "cerf"
     title: "Cerf"
     
@@ -23,8 +23,8 @@ gallery:
     alt: "calendrier de l'avent 2025"
     title: "Challenge calendrier de l'avent 2025"
     
-  - url: /assets/images/Bear2.png
-    image_path: /assets/images/Bear2.png
+  - url: /assets/images/Bear2.jpeg
+    image_path: /assets/images/Bear2.jpeg
     alt: "ours 2"
     title: "ours 2"
     
@@ -63,25 +63,15 @@ gallery:
     alt: "bouc"
     title: "bouc"
     
-  - url: /assets/images/IMG_250.png
-    image_path: /assets/images/IMG_0250.png
-    alt: "keyblade"
-    title: "keyblade"
+  - url: /assets/images/IMG_257.png
+    image_path: /assets/images/IMG_0257.png
+    alt: "ours 3"
+    title: "ours 3"
         
   - url: /assets/images/IMG_251.png
     image_path: /assets/images/IMG_0251.png
     alt: "ours 1"
     title: "ours 1"
-    
-  - url: /assets/images/IMG_257.png
-    image_path: /assets/images/IMG_0257.png
-    alt: "ours 3"
-    title: "ours 3"
-    
-  - url: /assets/images/IMG_265.png
-    image_path: /assets/images/IMG_0265.png
-    alt: "paysage 2"
-    title: "paysage 2"
     
   - url: /assets/images/IMG_279.png
     image_path: /assets/images/IMG_0279.png
@@ -96,7 +86,17 @@ gallery:
   - url: /assets/images/landscape1.jpeg
     image_path: /assets/images/landscape1.jpeg
     alt: "paysage 1"
-    title: "paysage 1"                    
+    title: "paysage 1"
+
+  - url: /assets/images/IMG_265.png
+    image_path: /assets/images/IMG_0265.png
+    alt: "paysage 2"
+    title: "paysage 2"
+
+  - url: /assets/images/IMG_250.png
+    image_path: /assets/images/IMG_0250.png
+    alt: "keyblade"
+    title: "keyblade"           
 ---
 
 {% include gallery id="gallery" %}
