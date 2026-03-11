@@ -138,17 +138,16 @@ CAP Pâtissier 2015, BTSA GPN 2013, Baccalauréat STT-CG 2006 (obtenus)
 
 ### Savoir-être
 
-Autonomie
-Rigueur
-Organisation
-Curiosité
-Ecoute
+Autonomie<br>
+Rigueur<br>
+Organisation<br>
+Curiosité<br>
+Ecoute<br>
 
 
 ### Langues et centres d'intéret
 
-Anglais Niveau B2 - Lu, parlé, écrit
+Anglais Niveau B2 - Lu, parlé, écrit<br>
 Italien Niveau A2 - Lu, écrit
 
-Cuisine, Dessin digital,
-Jeux vidéos (Coopération, RPG, Stratégie)
+Cuisine, Dessin digital, Jeux vidéos (Coopération, RPG, Stratégie)
