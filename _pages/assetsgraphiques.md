@@ -43,8 +43,8 @@ gallery:
     alt: "Overlay Tiwtch 4"
     title: "Overlay Tiwtch 4"
 
-  - url: /assets/images/YT_Banner_Text.png
-    image_path: /assets/images/YT_Banner_Text.png
+  - url: /assets/images/YT_Banner-Text.png
+    image_path: /assets/images/YT_Banner-Text.png
     alt: "Banniere Youtube"
     title: "Bannière Youtube"
 ---
