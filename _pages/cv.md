@@ -16,68 +16,68 @@ de publics et gestion de projets.
 Gaming Campus Lyon
 
 <ol>
-Montage de contenus narratifs (formats courts, contenus digitaux, publicité, portrait)
-Création et animation d’éléments graphiques
-Gestion du rythme, habillage visuel et mixage sonore
-Production de contenus adaptés aux réseaux sociaux
-Médiation, animation et mobilisation
+  <li>Montage de contenus narratifs (formats courts, contenus digitaux, publicité, portrait)</li>
+  <li>Création et animation d’éléments graphiques</li>
+  <li>Gestion du rythme, habillage visuel et mixage sonore</li>
+  <li>Production de contenus adaptés aux réseaux sociaux</li>
+  <li>Médiation, animation et mobilisation</li>
 </ol>
 
 #### 2012 - Chargé de médiation et animation - Stage (1 mois)
 La maison des jardins Tourcoing
 
 <ol>
-Conception de supports pédagogiques à destination des écoles et du grand public
-Animation d’ateliers nature
-Participation à l'organisation d’actions de sensibilisation environnementale
+  <li>Conception de supports pédagogiques à destination des écoles et du grand public</li>
+  <li>Animation d’ateliers nature</li>
+  <li>Participation à l'organisation d’actions de sensibilisation environnementale</li>
 </ol>
 
 #### 2012 - Chargé de communication et mobilisation - Stage (5 mois)
+Pocheco Canopée Reforestation Forest-sur-Marque
 
 <ol>
-Pocheco Canopée Reforestation Forest-sur-Marque
-Rédaction de contenus web et pages de sites internet
-Organisation de réunions de présentation et événements associatifs
-Appels aux dons et mobilisation d’acteurs locaux
-Suivi de projets environnementaux et coordination d’intervenants
+  <li>Rédaction de contenus web et pages de sites internet</li>
+  <li>Organisation de réunions de présentation et événements associatifs</li>
+  <li>Appels aux dons et mobilisation d’acteurs locaux</li>
+  <li>Suivi de projets environnementaux et coordination d’intervenants</li>
 </ol>
 
 #### 2011 à 2012 - Coordinateur adjoint d’équipe (6 mois)
 SMRB Bapaume
 
 <ol>
-Encadrement en binôme d’une équipe de 6 volontaires en service civique
-Organisation d’actions de sensibilisation (porte-à-porte, animations en mairie et en grande surface)
-Animation d’ateliers pédagogiques sur la réduction des déchets
-Coordination logistiques d’interventions publiques
-Gestion de projet et environnement technique
+  <li>Encadrement en binôme d’une équipe de 6 volontaires en service civique</li>
+  <li>Organisation d’actions de sensibilisation (porte-à-porte, animations en mairie et en grande surface)</li>
+  <li>Animation d’ateliers pédagogiques sur la réduction des déchets</li>
+  <li>Coordination logistiques d’interventions publiques</li>
+  <li>Gestion de projet et environnement technique</li>
 </ol>
 
 #### 2021 à 2022 - Administrateur réseaux - Alternance
 Adeo Services Villeneuve d’ascq
 
 <ol>
-Migration d’infrastructures vers le cloud (GCP)
-Rédaction de procédures et documentation technique
-Suivi de projets via Jira
-Coordination avec équipes techniques
+  <li>Migration d’infrastructures vers le cloud (GCP)</li>
+  <li>Rédaction de procédures et documentation technique</li>
+  <li>Suivi de projets via Jira</li>
+  <li>Coordination avec équipes techniques</li>
 </ol>
 
 #### 2019 à 2021 - Technicien systèmes et réseaux / support informatique
 
 <ol>
-Assistance utilisateurs
-Maintenance et gestion d’infrastructures
-Artisanat et création
+  <li>Assistance utilisateurs</li>
+  <li>Maintenance et gestion d’infrastructures</li>
+  <li>Artisanat et création</li>
 </ol>
 
 #### 2014 à 2017 - Pâtissier
 
 <ol>
-Réalisation de créations artisanales
-Organisation du travail en laboratoire
-Gestion de la production et respect des délais
-Sens du détail et exigence esthétique
+  <li>Réalisation de créations artisanales</li>
+  <li>Organisation du travail en laboratoire</li>
+  <li>Gestion de la production et respect des délais</li>
+  <li>Sens du détail et exigence esthétique</li>
 </ol>
 
 ### AUTRES EXPÉRIENCES
@@ -92,27 +92,27 @@ Sens du détail et exigence esthétique
 #### Communication et médiation
 
 <ol>
-Conception de supports pédagogiques
-Rédaction web et contenus éditoriaux
-Animation d’événements publics
-Mobilisation de partenaires
+  <li>Conception de supports pédagogiques</li>
+  <li>Rédaction web et contenus éditoriaux</li>
+  <li>Animation d’événements publics</li>
+  <li>Mobilisation de partenaires</li>
 </ol>
 
 #### Création visuelle et audiovisuelle
 
 <ol>
-Montage vidéo (DaVinci, Première)
-Création graphique (Affinity, Adobe, Procreate)
-Construction d’identité visuelle
+  <li>Montage vidéo (DaVinci, Première)</li>
+  <li>Création graphique (Affinity, Adobe, Procreate)</li>
+  <li>Construction d’identité visuelle</li>
 </ol>
 
 #### Organisation et coordination
 
 <ol>
-Encadrement d’équipe
-Suivi de projets
-Rédaction de procédures
-Planification d’actions
+  <li>Encadrement d’équipe</li>
+  <li>Suivi de projets</li>
+  <li>Rédaction de procédures</li>
+  <li>Planification d’actions</li>
 </ol>
 
 ### FORMATIONS
