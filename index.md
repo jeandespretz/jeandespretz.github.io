@@ -3,8 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author_profile: true
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+author_profile: false
+excerpt: "Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
 header:
   overlay_image: /assets/images/landscape1.jpeg
 ---
