@@ -8,10 +8,10 @@ gallery:
     alt: "panda"
     title: "Panda"
     
-  - url: /assets/images/@Myo.png
-    image_path: /assets/images/@Myo.png
-    alt: "chèvre"
-    title: "Chèvre"
+  - url: /assets/images/Bear2.jpeg
+    image_path: /assets/images/Bear2.jpeg
+    alt: "ours 2"
+    title: "ours 2"
     
   - url: /assets/images/@yanis.png
     image_path: /assets/images/@yanis.png
@@ -23,15 +23,15 @@ gallery:
     alt: "calendrier de l'avent 2025"
     title: "Challenge calendrier de l'avent 2025"
     
-  - url: /assets/images/Bear2.jpeg
-    image_path: /assets/images/Bear2.jpeg
-    alt: "ours 2"
-    title: "ours 2"
-    
   - url: /assets/images/IMG_0128.jpeg
     image_path: /assets/images/IMG_0128.jpeg
     alt: "ours KH"
     title: "ours KH"
+
+  - url: /assets/images/@Myo.png
+    image_path: /assets/images/@Myo.png
+    alt: "chèvre"
+    title: "Chèvre"
     
   - url: /assets/images/IMG_0131.jpeg
     image_path: /assets/images/IMG_0131.jpeg
@@ -63,11 +63,11 @@ gallery:
     alt: "bouc"
     title: "bouc"
     
-  - url: /assets/images/IMG_257.png
-    image_path: /assets/images/IMG_0257.png
-    alt: "ours 3"
-    title: "ours 3"
-        
+  - url: /assets/images/fox.jpeg
+    image_path: /assets/images/fox.jpeg
+    alt: "renard"
+    title: "renard"
+
   - url: /assets/images/IMG_251.png
     image_path: /assets/images/IMG_0251.png
     alt: "ours 1"
@@ -78,10 +78,10 @@ gallery:
     alt: "balcon"
     title: "balcon"
     
-  - url: /assets/images/fox.jpeg
-    image_path: /assets/images/fox.jpeg
-    alt: "renard"
-    title: "renard"
+  - url: /assets/images/IMG_257.png
+    image_path: /assets/images/IMG_0257.png
+    alt: "ours 3"
+    title: "ours 3"    
     
   - url: /assets/images/landscape1.jpeg
     image_path: /assets/images/landscape1.jpeg
