@@ -1,10 +1,9 @@
 ---
 permalink: /cv/
 title: "CV"
-action:
-  -label: "Télécharger au format PDF"
-  url: "/files/cv.pdf"
 ---
+
+[📄 Télécharger mon CV (PDF)](/files/cv.pdf){: .btn .btn--primary }
 
 Professionnel issu d’un parcours hybride mêlant audiovisuel, mediation environnementale et
 coordination d’équipe, recherche un poste en alternance. Je souhaite évoluer vers la communication
