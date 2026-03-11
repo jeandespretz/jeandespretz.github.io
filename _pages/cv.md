@@ -1,10 +1,9 @@
 ---
 permalink: /cv/
 title: "CV"
-footer:
-  action:
-    -label: "Télécharger au format PDF"
-    url: "/files/cv.pdf"
+action:
+  -label: "Télécharger au format PDF"
+  url: "/files/cv.pdf"
 ---
 
 Professionnel issu d’un parcours hybride mêlant audiovisuel, mediation environnementale et
