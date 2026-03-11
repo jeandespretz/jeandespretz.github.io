@@ -6,5 +6,5 @@ layout: splash
 author_profile: true
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/landscape1.jpg
+  overlay_image: /assets/images/landscape1.jpeg
 ---
