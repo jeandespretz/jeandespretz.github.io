@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Jean Despretz"
-  avatar : "/assets/images/Avatar_png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Avatar.png"
+  bio    : "Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
