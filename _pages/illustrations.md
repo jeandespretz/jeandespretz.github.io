@@ -1,13 +1,12 @@
 ---
 permalink: /illustrations/
 title: "Illustrations"
-
 gallery:
-  - url: /assets/images/@Panda_obviously_FA2.png
+  url: /assets/images/@Panda_obviously_FA2.png
     image_path: /assets/images/@Panda_obviously_FA2.png
     alt: "panda"
     title: "Panda"
-  - url: /assets/images/@Myo.png
+  url: /assets/images/@Myo.png
     image_path: /assets/images/@Myo.png
     alt: "chèvre"
     title: "Chèvre"
