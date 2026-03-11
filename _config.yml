@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Portfolio
+title: Portfolio - J. Despretz
 email: j.despretz.contact@ik.me
 description: >- # this means to ignore newlines until "baseurl:"
   Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias.
@@ -61,6 +61,8 @@ author:
   avatar : "/assets/images/Avatar.png"
   bio    : "Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
   links:
+    - label: "Rennes, FR"
+      icon: "fas fa-faw fa-map-marker"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jeandespretz.github.io"
