@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-excerpt: "Jean Despretz<br><br>Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
+excerpt: "<b>Designer UI en formation · Illustration & design visuel</b><br><br>Je développe progressivement mes compétences en illustration, design graphique et création numérique à travers des projets personnels et académiques."
 header:
   overlay_image: /assets/images/landscape1.jpeg
 ---
