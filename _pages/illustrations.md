@@ -68,17 +68,17 @@ gallery:
     alt: "renard"
     title: "renard"
 
-  - url: /assets/images/IMG_251.png
+  - url: /assets/images/IMG_0251.png
     image_path: /assets/images/IMG_0251.png
     alt: "ours 1"
     title: "ours 1"
     
-  - url: /assets/images/IMG_279.png
+  - url: /assets/images/IMG_0279.png
     image_path: /assets/images/IMG_0279.png
     alt: "balcon"
     title: "balcon"
     
-  - url: /assets/images/IMG_257.png
+  - url: /assets/images/IMG_0257.png
     image_path: /assets/images/IMG_0257.png
     alt: "ours 3"
     title: "ours 3"    
@@ -88,12 +88,12 @@ gallery:
     alt: "paysage 1"
     title: "paysage 1"
 
-  - url: /assets/images/IMG_265.png
+  - url: /assets/images/IMG_0265.png
     image_path: /assets/images/IMG_0265.png
     alt: "paysage 2"
     title: "paysage 2"
 
-  - url: /assets/images/IMG_250.png
+  - url: /assets/images/IMG_0250.png
     image_path: /assets/images/IMG_0250.png
     alt: "keyblade"
     title: "keyblade"           
