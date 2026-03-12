@@ -62,7 +62,7 @@ author:
   bio    : "Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
   links:
     - label: "Rennes, FR"
-      icon: "fas fa-faw fa-map-marker"
+      icon: "fas fa-fw fa-location-dot"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jeandespretz.github.io"
@@ -76,17 +76,17 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jean-despretz?trk=contact-info"
 
-footer:
-  links:
+#footer:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jean-despretz?trk=contact-info"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/jean-despretz?trk=contact-info"
 
 defaults:
   # _posts
