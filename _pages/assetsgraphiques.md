@@ -50,7 +50,7 @@ gallery:
 ---
 <section>
   <p>
-    Ces projets ont été réalisés dans le cadre de la formation Gaming Campus, avec un délai d’un mois.
+    Ces projets ont été réalisés dans le cadre de la formation Gaming Campus (2024), avec un délai d’un mois.
     Ils s’inscrivent dans une démarche de conception d’identité visuelle complète pour une activité de création de contenu en ligne.
   </p>
 </section>
