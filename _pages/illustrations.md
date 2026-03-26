@@ -103,14 +103,62 @@ Ces travaux personnels explorent la création d’univers visuels et le dévelop
 Ils s’inscrivent dans une démarche d’apprentissage de l’anatomie, de la composition et de la narration visuelle.
 <br>
 
-Compétences mobilisées :
-<ul>
-<li>Illustration digitale</li>
-<li>Construction de personnage</li>
-<li>Gestion des couleurs</li>
-</ul>
+<section>
+  <h2>Illustration – Personnage furry (Panda)</h2>
+  <p>
+    Création d’un personnage original dans un style semi-cartoon.
+    Travail sur les proportions, les expressions et la lisibilité visuelle.
+  </p>
 
-<br>
+  <h3>Compétences mobilisées :</h3>
+  <ul>
+    <li>Illustration digitale</li>
+    <li>Construction de personnage</li>
+    <li>Gestion des couleurs</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Illustration – Personnage (Chèvre / Cerf)</h2>
+  <p>
+    Exploration de variations de design autour de personnages anthropomorphes.
+    Recherche de cohérence visuelle et d’identité graphique.
+  </p>
+
+  <h3>Objectif :</h3>
+  <p>
+    Développer une capacité à créer des personnages reconnaissables et expressifs.
+  </p>
+</section>
+
+<section>
+  <h2>Série Inktober</h2>
+  <p>
+    Réalisation d’une série d’illustrations dans le cadre du challenge Inktober.
+  </p>
+
+  <h3>Résultats :</h3>
+  <ul>
+    <li>Production de plusieurs visuels en temps limité</li>
+    <li>Amélioration de la rapidité d’exécution</li>
+    <li>Travail sur le trait et la simplification</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Décors / paysages</h2>
+  <p>
+    Création d’environnements visuels oniriques.
+  </p>
+
+  <h3>Compétences mobilisées :</h3>
+  <ul>
+    <li>Composition d’image</li>
+    <li>Gestion de la lumière</li>
+    <li>Création d’ambiance</li>
+  </ul>
+</section>
+
 {% include gallery id="gallery" %}
 
 
