@@ -36,7 +36,11 @@ title: "Réalisations"
 
 <iframe src="/files/strategie.pdf" width="100%" height="800px"></iframe>
 <br>
-[📄 Télécharger le dossier (PDF)](/files/strategie.pdf){: .btn .btn--primary }
+<p>
+  <a href="/files/strategie.pdf" class="btn btn--primary" target="_blank">
+    📄 Télécharger le dossier (PDF)
+  </a>
+</p>
 
   <h3>Compétences mobilisées :</h3>
   <ul>
