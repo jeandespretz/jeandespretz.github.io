@@ -99,6 +99,18 @@ gallery:
     title: "keyblade"           
 ---
 
+Ces travaux personnels explorent la création d’univers visuels et le développement de mon style graphique.
+Ils s’inscrivent dans une démarche d’apprentissage de l’anatomie, de la composition et de la narration visuelle.
+<br>
+
+Compétences mobilisées :
+<ul>
+<li>Illustration digitale</li>
+<li>Construction de personnage</li>
+<li>Gestion des couleurs</li>
+</ul>
+
+<br>
 {% include gallery id="gallery" %}
 
 
