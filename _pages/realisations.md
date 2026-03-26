@@ -4,7 +4,7 @@ title: "Réalisations"
 ---
 <section>
   <p>
-    Ces projets ont été réalisés dans le cadre de la formation Gaming Campus, avec un délai d’un mois par projet.
+    Ces projets ont été réalisés dans le cadre de la formation Gaming Campus (2024), avec un délai d’un mois par projet.
     Ils couvrent l’ensemble du processus de conception d’un projet de communication digitale : analyse, stratégie, production et présentation.
   </p>
 </section>
