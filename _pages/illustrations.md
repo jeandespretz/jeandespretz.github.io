@@ -104,7 +104,7 @@ Ils s’inscrivent dans une démarche d’apprentissage de l’anatomie, de la c
 <br>
 
 <section>
-  <h2>Illustration – Personnage furry (Panda)</h2>
+  <h2>Illustration – Personnage (Panda)</h2>
   <p>
     Création d’un personnage original dans un style semi-cartoon.
     Travail sur les proportions, les expressions et la lisibilité visuelle.
@@ -119,7 +119,7 @@ Ils s’inscrivent dans une démarche d’apprentissage de l’anatomie, de la c
 </section>
 
 <section>
-  <h2>Illustration – Personnage (Chèvre / Cerf)</h2>
+  <h2>Illustration – Personnages (Chèvre / Cerf)</h2>
   <p>
     Exploration de variations de design autour de personnages anthropomorphes.
     Recherche de cohérence visuelle et d’identité graphique.
