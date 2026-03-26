@@ -8,7 +8,9 @@ title: "Compétences techniques"
   
   <p>Designer UI débutant, j’ai développé mes compétences grâce à la formation Gaming Campus et à l’auto-apprentissage sur des projets personnels.</p>
   
-  <a href="/files/cv.pdf" class="btn-cv" target="_blank">Télécharger mon CV (mise à jour : Mars 2026)</a>
+  <a href="/files/cv.pdf" class="btn btn--primary" target="_blank">
+    📄 Télécharger mon CV (PDF mis à jour : Mars 2026)
+  </a>
   
   <div class="skills-container">
     <h2>Logiciels graphiques et vidéo</h2>
