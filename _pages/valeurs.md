@@ -3,8 +3,8 @@ permalink: /valeurs/
 title: "Mes valeurs"
 ---
 
-<p>Je porte une attention particulière à la créativité, à la curiosité et à l’apprentissage continu. En tant que débutant en illustration et en design numérique, je considère chaque projet comme une occasion de progresser, d’explorer de nouvelles idées et d’améliorer ma pratique. J’accorde aussi une grande importance à la rigueur et à la qualité du travail, même dans les projets les plus simples.
+<p>Je porte une attention particulière à la créativité, à la rigueur et à l’apprentissage continu. En tant que designer en formation, je considère chaque projet comme une opportunité de développer mes compétences et d’explorer de nouvelles approches visuelles.
 <br>
-<p>Le design et l’illustration sont pour moi des moyens de créer des univers visuels et de transmettre des émotions ou des idées de manière claire et accessible. Je m’intéresse autant à l’aspect artistique qu’à la réflexion derrière un projet : comprendre un besoin, imaginer des solutions visuelles et construire une communication cohérente.
+<p>Je m’intéresse à la conception d’interfaces et à la création de supports de communication qui répondent à un besoin précis, en tenant compte de l’utilisateur, de l’ergonomie et de la lisibilité. Mon objectif est de proposer des solutions visuelles à la fois fonctionnelles et esthétiques.
 <br>
-<p>Enfin, je crois beaucoup à l’importance de l’écoute, de la collaboration et du respect dans un projet créatif. Travailler avec d’autres personnes, partager des idées et apprendre de nouvelles méthodes font partie des éléments qui me motivent à continuer à évoluer dans les métiers du design et de la communication visuelle.
+<p>Je valorise également l’écoute, la collaboration et l’amélioration continue, qui sont pour moi des éléments essentiels dans la réussite d’un projet numérique.
