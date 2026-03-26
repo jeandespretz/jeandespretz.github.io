@@ -87,11 +87,6 @@ gallery:
     <li>Assets graphiques adaptés aux deux plateformes</li>
   </ul>
 
-  <h3>Outils :</h3>
-  <ul>
-    <li>Photoshop</li>
-  </ul>
-
   <h3>Compétences mobilisées :</h3>
   <ul>
     <li>Conception d’identité visuelle</li>
