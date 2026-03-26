@@ -12,7 +12,7 @@ title: "Vidéos"
   <h2>Projet vidéo – Portrait</h2>
 
   <p>
-    Réalisation d’un portrait vidéo dans le cadre d’un exercice de formation.
+    Réalisation d’un portrait vidéo dans le cadre du rendu pour le passage du titre professionnel de Monteur Audiovisuel (CCP 2).
   </p>
 
   <h3>Objectif :</h3>
