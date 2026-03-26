@@ -107,7 +107,7 @@ gallery:
   </ul>
 </section>
 <br>
-{% include gallery caption="Productions d'éléments graphiques pour Youtube et Twitch dans le cadre de la formation de monteur audiovisuel et streaming auprès de Gaming Campus" %}
+{% include gallery %}
 
 
 
