@@ -10,7 +10,9 @@ title: "Compétences Techniques"
   <a href="/files/cv.pdf" class="btn btn--primary" target="_blank">
     📄 Télécharger mon CV (PDF mis à jour : Mars 2026)
   </a>
+ 
  <br> 
+ <br>
  
   <div class="skills-container">
     <h2>Logiciels graphiques et vidéo</h2>
