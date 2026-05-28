@@ -21,7 +21,7 @@ title: "Profil & compétences"
   </p>
 
   <p>
-    <a href="/files/cv.pdf">Télécharger mon CV</a>
+    <a href="/files/cv.pdf" class="btn btn--primary" target="_blank">Télécharger mon CV</a>
   </p>
 
 </section>
