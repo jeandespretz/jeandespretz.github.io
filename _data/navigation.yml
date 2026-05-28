@@ -1,7 +1,7 @@
 main:
-  - title: "Profil & compétences "
+  - title: "Profil et Compétences "
     url: /cv/
-  - title: "Design graphique"
+  - title: "Design Graphique"
     url: /design-graphique/
   - title: "Projet Gaming Campus"
     url: /projet-cg/
@@ -9,5 +9,5 @@ main:
     url: /videos/
   - title: "Illustrations"
     url: /illustrations/
-  - title: "Mes valeurs"
+  - title: "Mes Valeurs"
     url: /valeurs/
