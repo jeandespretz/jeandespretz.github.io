@@ -1,13 +1,11 @@
 main:
-  - title: "Compétences techniques"
+  - title: "Profil & compétences "
     url: /cv/
+  - title: "Projet Gaming Campus"
+    url: /projet-cg/
+  - title: "Projets vidéo"
+    url: /videos/
   - title: "Illustrations"
     url: /illustrations/
-  - title: "Assets graphiques"
-    url: /assetsgraphiques/
-  - title: "Vidéos"
-    url: /videos/
-  - title: "Réalisations"
-    url: /realisations/
   - title: "Mes valeurs"
     url: /valeurs/
