@@ -3,6 +3,30 @@ permalink: /videos/
 title: "Projets vidéo"
 ---
 
+<style>
+  .video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 1.5rem;
+    margin-bottom: 4rem;
+  }
+
+  .video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .video-project {
+    margin-bottom: 3rem;
+  }
+</style>
+
 <section>
   <p>
     Ces projets ont été réalisés dans le cadre de ma formation Monteur audiovisuel et streaming à Gaming Campus.
@@ -16,7 +40,7 @@ title: "Projets vidéo"
   </p>
 </section>
 
-<section>
+<section class="video-project">
   <h2>Portrait vidéo — NieR:Automata</h2>
 
   <p>
@@ -47,20 +71,19 @@ title: "Projets vidéo"
     <li>Construction d’une ambiance audiovisuelle.</li>
   </ul>
 
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <div class="video-embed">
     <iframe
       src="https://www.youtube.com/embed/qqXhsxhNguU?si=uHMsR2S_fxKLpstK"
       title="Portrait vidéo — NieR:Automata"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      style="position:absolute; top:0; left:0; width:100%; height:100%;">
+      allowfullscreen>
     </iframe>
   </div>
 </section>
 
-<section>
+<section class="video-project">
   <h2>Publicité fictive — Final Fantasy XIV: Dawntrail</h2>
 
   <p>
@@ -91,20 +114,19 @@ title: "Projets vidéo"
     <li>Valorisation d’un univers visuel.</li>
   </ul>
 
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <div class="video-embed">
     <iframe
       src="https://www.youtube.com/embed/4pOMvRejYzI?si=cynIn3_6CUe3_a9U"
       title="Publicité fictive — Final Fantasy XIV: Dawntrail"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      style="position:absolute; top:0; left:0; width:100%; height:100%;">
+      allowfullscreen>
     </iframe>
   </div>
 </section>
 
-<section>
+<section class="video-project">
   <h2>Publicité produit — Burger</h2>
 
   <p>
@@ -134,20 +156,19 @@ title: "Projets vidéo"
     <li>Impact visuel.</li>
   </ul>
 
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <div class="video-embed">
     <iframe
       src="https://www.youtube.com/embed/Xpl4FirvI8M?si=E1fHU16kTxgYrGIC"
       title="Publicité produit — Burger"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      style="position:absolute; top:0; left:0; width:100%; height:100%;">
+      allowfullscreen>
     </iframe>
   </div>
 </section>
 
-<section>
+<section class="video-project">
   <h2>Présentation vidéo — Jeu de société</h2>
 
   <p>
@@ -177,15 +198,14 @@ title: "Projets vidéo"
     <li>Organisation du message.</li>
   </ul>
 
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <div class="video-embed">
     <iframe
       src="https://www.youtube.com/embed/qLnJKDeoxX8?si=_KJee4u2-0g7sUg9"
       title="Présentation vidéo — Jeu de société"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-      style="position:absolute; top:0; left:0; width:100%; height:100%;">
+      allowfullscreen>
     </iframe>
   </div>
 </section>
