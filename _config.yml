@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jean Despretz"
   avatar : "/assets/images/Avatar.png"
-  bio    : "Débutant en illustration et en design numérique, je construis progressivement mon univers visuel à travers différents projets graphiques et multimédias. Ce portfolio rassemble mes premières réalisations et expérimentations."
+  bio    : "Designer UI junior en formation, je développe une approche visuelle centrée sur la lisibilité, la cohérence graphique et l’expérience utilisateur."
   links:
     - label: "Rennes, FR"
       icon: "fas fa-fw fa-location-dot"
