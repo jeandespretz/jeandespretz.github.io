@@ -1,5 +1,5 @@
 ---
-permalink: /realisations/
+permalink: /projet-cg/
 title: "Projet Gaming Campus"
 
 gallery:
