@@ -28,8 +28,8 @@ gallery:
     alt: "Photomontage d’ambiance cosmique avec une fenêtre ouverte sur l’espace"
     title: "Variation d’ambiance — Cosmique"
 
-  - url: /assets/images/Colorisation(1).png
-    image_path: /assets/images/Colorisation(1).png
+  - url: /assets/images/Colorisation.png
+    image_path: /assets/images/Colorisation.png
     alt: "Colorisation d’une photo noir et blanc avec avant après"
     title: "Colorisation photo"
 ---
